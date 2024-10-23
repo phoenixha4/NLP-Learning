@@ -1,7 +1,3 @@
-Great to hear that it's working! Here's a simple **README** file that describes the project and its purpose:
-
----
-
 # E2E Project using docker
 
 This project demonstrates how to wrap a machine learning model in a FastAPI web application and Dockerize it for easy deployment. The application performs sentiment analysis using Hugging Face's `transformers` library, allowing users to analyze text via a simple API call.
